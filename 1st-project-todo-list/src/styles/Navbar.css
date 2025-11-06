@@ -1,0 +1,16 @@
+ nav{
+    width: 100dvw;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+
+    padding: 0 2rem;
+
+    h1{
+        font-size: 1rem;
+        text-transform: uppercase;
+        color: black;
+    }
+
+ }
